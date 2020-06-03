@@ -1,0 +1,35 @@
+Want to take a ride on blockchain technology?
+
+If yes, lets go. 
+
+So what does this huge name "Blockchain" exactly means?
+In simple terms, it is an decentralized and distributed ledger that records the provenance of a digital asset. 
+
+So the next question that may arise is, where it is use and how?
+There are various use cases of this technology, lets start with the most important one 
+"International Banking"  Blockchain would significantly reduce the transaction time while also being cheaper for consumers. This can be achieved by eliminating the need for third parties to manage transactions and keep records. As we can see the increasing digital fraud the blockchain can play a vital role in reducing such kind of network fraud.
+Similarly, Blockchain technology can also be used in healthcare system. How? As we are facing the the worst pandemic and the number of people that are affected by the corona virus is huge it is very difficult to keep records of all the patients and the also the patients with other disease. So Blockchain technology can keep all this records secured and easily accessible at any time by its own embedded abilities.
+In India, every time an election takes place somewhere in the country an electral fraud case has been registered for vote tampering or hackable Electral Voting Machine(EVM). The security measures embedded into blockchain technology would significantly reduce the possibility of vote tampering while giving people the ability to vote from any part of the country.
+
+As such there are number of applications where blockchain can provide security from various digital fraud. In recent times, there are few countries who showed support to blockchain technology which includes USA, UK, Estonia and India. 
+
+From its applications, we can accept that this technology is reliable and have great ability to Revolutionize the current digital system and provide security and comfortability for future digital world.
+
+Now, lets see an step by step overview of how an transaction takes place in Blockchain System:
+
+Step 1:
+              A Transaction is requested between 2 nodes on a network. 
+
+Step 2:
+               A relevant details of the transaction are gathered and put inside a block. 
+
+Step 3:
+               The block is then brodcasted to all the nodes on the  network for verification. 
+
+Step 4:
+               The block is validated via consensus protocol of the network and the block is added to the blockchain. 
+
+Step 5:
+               Each node in the network receives a copy of the updated blockchain.
+
+Hence, Your Transaction has been completed. 
