@@ -1,0 +1,29 @@
+
+BLOCKCHAIN-For an Enthusiast
+
+
+So as we got an idea of what Blockchain is, its use cases, and its working, let's move a bit deep into the Blockchain Technology. Now, let's talk about a few important assets, that are developed from this technology i.e BITCOIN and ETHEREUM. As these technologies have their own special characteristics, abilities, and capabilities they share few similar features too. Let's talk about both the technologies individually.
+
+BITCOIN:  
+
+Bitcoin is the world's first digital currency created in the year 2008 by Satoshi Nakamoto. However, it is still unclear that he was the only one or there are any other people behind this technology(An Anonymous). It is one of the successful attempts from hundreds of attempts made for making virtual money through the use of cryptography. It is a decentralized digital currency independent of the banks and Governments. This digital currency can be sent from user to user through peer to peer bitcoin Blockchain network without the need for intermediaries. 
+So, how does Bitcoin Work?
+Bitcoin is like an online version of cash. You can use it to buy products and services, but not every country has legalized it yet. Each bitcoin is a computer file that is stored in a "Digital Wallet" app on a smartphone or a computer. Bitcoin works on a vast public ledger called Blockchain, where all confirmed transactions are stored into the 'Blocks'.
+ 
+As each block enters the system, it is broadcasted on the peer-to-peer computer network of users for validation. In this way, all users are aware of each transaction, which prevents stealing and double-spending, where someone spends the same currency twice. As Bitcoins has no central monetary authority, there is no way any bank or government body will come forward and announce on Television that all the current working bitcoin will be devalued and new bitcoins will be published(Yes, you guessed that right DEMONETISATION).
+Now, Let's take a look at ETHEREUM.
+
+ETHEREUM:
+
+Etherum is founded in the year 2013 by Vitalik Buterin. Ethererum is often described as a "WORLD COMPUTER" that sounds big? Don't worry in simple terms Ethereum is an open-source, globally decentralized computing infrastructure that executes programs called smart contracts.
+There are a few important features of Ethereum given below;
+The Ethereum platform enables developers to build powerful decentralized applications with built-in economic functions. 
+Ethereum, being a decentralized system, is fully autonomous and is not controlled by anyone at all. It has no central point of failure, as it is being run from thousands of volunteers' computers around the globe, which means it can never go offline. The Ethereum platform enables developers to build powerful decentralized applications with built-in economic functions. Essentially, the Ethereum Blockchain is capable of bringing its core principles - trust, transparency, security, and efficiency - into any service, business, or industry. Ethereum can also be used to create Decentralized Autonomous Organizations (DAO), which operate completely transparently and independently of any intervention, with no single leader. DAOs are run by programming code and a collection of smart contracts written on the Blockchain. The various fields where Ethereum can be used are Real estate, Insurance, Decentralized Finance, Global trades, and many more.
+Now, as we got to know about Bitcoin and Ethereum let's see where it differs;
+Ethereum shares many common elements with other open Blockchains(a peer-to-peer network connecting participants) mainly with Bitcoin.
+However, the purpose and construction of Ethereum are very different from that of the other blockchains. Ethereum’s purpose is not primarily to be a digital currency payment network. While the digital currency ether is both integral to and necessary for the operation of Ethereum, ether is intended as a utility currency to pay for use of the Ethereum platform as the world computer. Ethereum is designed to be a general-purpose programmable blockchain that runs a virtual machine capable of executing code of arbitrary and unbounded complexity. Ethereum is basically an innovation that allows programmers all over the world to make Decentralized programs using a blockchain consensus algorithm.
+
+Why do we even need a digital currency?
+Let me tell you an incident that may answer the need for digital currency;
+In 2011, the USA government ordered all financial service providers to stop providing their services Wikileaks because Wikileaks released something that the government couldn't digest. This leads to no Donation for a few days because banks, card companies, Paypal, etc. pulled their services according to the orders. At that point, Wikileaks decided to use Bitcoin because it is an open network where anyone can participate and no government can stop it. To stop bitcoin, you need to stop the internet all over the world which they can't do. Therefore in its true essence, Bitcoin may be an alternative to the current financial system.
+
